@@ -1,3 +1,5 @@
+NAMA: LALU MUHAMMAD HUSNUL HARKI
+NIM: TI 22250016
 # pengumpulan-tugas-uts
 1. Judul dan Tujuan ProyekProyek ini adalah studi Machine Learning (Pembelajaran Mesin) untuk prediksi status akademik mahasiswa (apakah seorang mahasiswa akan Lulus atau Gagal berdasarkan data sosiodemografi, jarak tempat tinggal, tingkat kehadiran, dan aktivitas e-learning).   Variabel Target (label (fail=1, pass=0)):0 = Lulus1 = Gagal2. Struktur dan Alur Kerja Proyek (Pipeline)Berdasarkan sel-sel kode yang dijalankan, alur kerja proyek ini meliputi:Impor Pustaka (Library):
 Menggunakan pustaka standar Python untuk analisis data dan pemodelan, seperti pandas, numpy, matplotlib, seaborn, serta scikit-learn (untuk preprocessing, pemodelan klasifikasi seperti Logistic Regression, Decision Tree, Random Forest, serta evaluasi metrik).   Pemuatan Data (Data Loading):
